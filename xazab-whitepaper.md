@@ -5,4 +5,4 @@ Xazabs gives its users a faster means of transferring crypto with the use of x11
 
 ### Xazab Development
 
-Xazab is going to follow its own development but still remain completely with its parents development
+Xazab is going to follow its own development but still remain completely with its parents development. More updates coming

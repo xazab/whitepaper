@@ -6,3 +6,12 @@ Xazabs gives its users a faster means of transferring crypto with the use of x11
 ### Xazab Development
 
 Xazab is going to follow its own development but still remain completely with its parents development. More updates coming
+
+### Current Development
+
+Xazab have moved to its second phase of development by adding more Proof of Work to its algorithm. Now the included proof of works are SHA256D, LYRA2, YESPOWER, SCRYPT and GHOSTRIDER(will take place at block height 370,000). Why the need of these algorithm.
+- This is to allow everybody no matter the device you have to participate in XAZAB evolution.
+- To make sure that Xazab is more secure as no individual can have or monopolize the network system of XAZAB thereby preventing 51% on the system.
+
+### Goals 
+

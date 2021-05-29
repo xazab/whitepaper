@@ -25,7 +25,7 @@ Xazab have moved to its second phase of development by adding more Proof of Work
 - [Xazab Source](https://github.com/xazab/xazab)
 - [Xazab Announcement](https://bitcointalk.org/index.php?topic=5283222.0)
 - [Pool-1](https://www.0769.it/)
-- [Pool-2](https://mecrypto.club/)
+- [Pool-2](https://pool.rplant.xyz/)
 - [Xazab API]( https://insight.xazab.xyz/insight-api/blocks)
 - [Masternode setup](https://github.com/xazab/xazab#masternode-setup)
 - [Wallet](https://github.com/xazab/xazab/releases/tag/v0.18.0)

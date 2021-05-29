@@ -17,28 +17,28 @@ Xazab have moved to its second phase of development by adding more Proof of Work
 
 ### Links
 
-- (Website Xazab)[https://xazab.xyz]
-- (Explorer Xazab-1)[https://explorer.xazab.xyz/insight]
-- (Explorer Xazab-2)[https://ihostmn.com/explorerinfo.php?coin=XAZAB]
-- (Xazab Electrum)[https://electrum.xazab.xyz]
-- (Xazab Electrum Github)[https://github.com/xazab/electrum-xazab/releases]
-- (Xazab Source)[https://github.com/xazab/xazab]
-- (Xazab Announcement)[https://bitcointalk.org/index.php?topic=5283222.0]
-- (Pool-1)[https://www.0769.it/]
-- (Pool-2)[https://mecrypto.club/]
-- (Xazab API)[ https://insight.xazab.xyz/insight-api/blocks]
-- (Masternode setup)[https://github.com/xazab/xazab#masternode-setup]
-- (Wallet)[https://github.com/xazab/xazab/releases/tag/v0.18.0]
-- (Coingecko Xazab)[https://www.coingecko.com/en/coins/xazab]
-- (Redit Xazab)[https://www.reddit.com/r/xazab/]
-- (Telegram Xazab)[https://t.me/xazabcoin]
-- (Telegram Australia)[https://t.me/Xazab_australia]
-- (Facebook Xazab)[https://www.facebook.com/xazabcoins]
-- (Medium Xazab)[https://xazab.medium.com/]
-- (Instagram Xazab)[https://www.instagram.com/xazabdeveloper/]
-- (Governance Tools for  budget proposal)[https://proposal.xazab.xyz/]
-- (**Exchange-1:**)[https://ihostmn.com/buysellmarkets.php]
-- (**Exchange-2:**)[https://v2.altmarkets.io/trading/xazabbtc]
-- (JS-sdk Xazab)[https://xazab.github.io/js-xazab-sdk/#/]
-- (SLIP-0044)[https://github.com/satoshilabs/slips/blob/master/slip-0044.md]
-- (STAT-2)[https://feedback.coinstats.app/b/coins-token-requests/xazab/]
+- [Website Xazab](https://xazab.xyz)
+- [Explorer Xazab-1](https://explorer.xazab.xyz/insight)
+- [Explorer Xazab-2](https://ihostmn.com/explorerinfo.php?coin=XAZAB)
+- [Xazab Electrum](https://electrum.xazab.xyz)
+- [Xazab Electrum Github](https://github.com/xazab/electrum-xazab/releases)
+- [Xazab Source](https://github.com/xazab/xazab)
+- [Xazab Announcement](https://bitcointalk.org/index.php?topic=5283222.0)
+- [Pool-1](https://www.0769.it/)
+- [Pool-2](https://mecrypto.club/)
+- [Xazab API]( https://insight.xazab.xyz/insight-api/blocks)
+- [Masternode setup](https://github.com/xazab/xazab#masternode-setup)
+- [Wallet](https://github.com/xazab/xazab/releases/tag/v0.18.0)
+- [Coingecko Xazab](https://www.coingecko.com/en/coins/xazab)
+- [Redit Xazab](https://www.reddit.com/r/xazab/)
+- [Telegram Xazab](https://t.me/xazabcoin)
+- [Telegram Australia](https://t.me/Xazab_australia)
+- [Facebook Xazab](https://www.facebook.com/xazabcoins)
+- [Medium Xazab](https://xazab.medium.com/)
+- [Instagram Xazab](https://www.instagram.com/xazabdeveloper/)
+- [Governance Tools for  budget proposal](https://proposal.xazab.xyz/)
+- [**Exchange-1:**](https://ihostmn.com/buysellmarkets.php)
+- [**Exchange-2:**](https://v2.altmarkets.io/trading/xazabbtc)
+- [JS-sdk Xazab](https://xazab.github.io/js-xazab-sdk/#/)
+- [SLIP-0044](https://github.com/satoshilabs/slips/blob/master/slip-0044.md)
+- [STAT-2](https://feedback.coinstats.app/b/coins-token-requests/xazab/)
